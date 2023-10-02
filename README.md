@@ -38,8 +38,9 @@ This product will connect organanizations with potential memebers.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![](Activity%20UML%20SE.jpg)
+![](Activity%20UML%20SE%202.jpg)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/XT7lPdduzw8unMtkmZ5LyN/SE-wireframe?type=design&node-id=0-1&viewport=67%2C434%2C0.4&t=E2opSWSGGPPYqVgg-0&scaling=scale-down&starting-point-node-id=2%3A200
